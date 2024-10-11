@@ -1,0 +1,42 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Visual Studio database projects
+*.dbmdl
+*.dbproj.user
+*.dbproj.schemaview
+
+# Backup files
+*~ 
+*.bak 
+*.swp
+
+# Temporary files
+*.tmp
+*.temp
+
+# Other files
+Thumbs.db
+ehthumbs.db
